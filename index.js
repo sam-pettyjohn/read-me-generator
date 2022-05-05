@@ -18,7 +18,7 @@ const aboutUser = () => {
                 if (userName) {
                     return true;
                 } else {
-                    console.log("User's name must be provided - Please enter your name:");
+                    console.log("User's name must be provided.");
                     return false;
                 }
             }
@@ -31,7 +31,7 @@ const aboutUser = () => {
                 if (userProf) {
                     return true;
                 } else {
-                    console.log("User's profession must be provided - Please enter your profession:");
+                    console.log("User's profession must be provided.");
                     return false;
                 }
             }
@@ -44,7 +44,7 @@ const aboutUser = () => {
                 if (userEmail) {
                     return true;
                 } else {
-                    console.log("User's email must be provided - Please enter your email address:");
+                    console.log("User's email must be provided.");
                     return false;
                 }
             }
@@ -57,7 +57,7 @@ const aboutUser = () => {
                 if (userGitHub) {
                     return true;
                 } else {
-                    console.log("User's GitHub username must be provided - Please enter your GitHub Username:");
+                    console.log("User's GitHub username must be provided.");
                     return false;
                 }
             }
@@ -86,7 +86,7 @@ const aboutProject = inputData => {
                 if (projectTitle) {
                     return true;
                 } else {
-                    console.log("Project must include a title - Please enter a title for your project:");
+                    console.log("Project must include a title.");
                     return false;
                 }
             }
@@ -99,7 +99,7 @@ const aboutProject = inputData => {
                 if (projectDescription) {
                     return true;
                 } else {
-                    console.log("Project must include a description - Please enter a description for your project:");
+                    console.log("Project must include a description.");
                     return false;
                 }
             }
@@ -107,12 +107,12 @@ const aboutProject = inputData => {
         {
             type: "input",
             name: "installation",
-            message: "Please enter any required INSTALLATIONS instructions for this project. If there are none, please enter 'NONE':",
+            message: "Please enter any required INSTALLATIONS instructions for this project. If there are none, enter 'NONE':",
             validate: projectInstall => {
                 if (projectInstall) {
                     return true;
                 } else {
-                    console.log("Please provide text entry. Enter any required installation instructions for this project. If there are none, please enter 'NONE':");
+                    console.log("Please provide text entry. If there are none, enter 'NONE'");
                     return false;
                 }
             }
@@ -125,7 +125,7 @@ const aboutProject = inputData => {
                 if (projectUsage) {
                     return true;
                 } else {
-                    console.log("Please provide a USAGE example for the project:");
+                    console.log("Please provide a USAGE example for the project.");
                     return false;
                 }
             }
@@ -138,7 +138,7 @@ const aboutProject = inputData => {
                 if (projectContribution) {
                     return true;
                 } else {
-                    console.log("Please include project contribution guidelines for others:");
+                    console.log("Please include project contribution guidelines for others.");
                     return false;
                 }
             }
@@ -151,7 +151,7 @@ const aboutProject = inputData => {
                 if (projectTests) {
                     return true;
                 } else {
-                    console.log("Please provide test instructions for this project:");
+                    console.log("Please provide test instructions for this project.");
                     return false;
                 }
             }
