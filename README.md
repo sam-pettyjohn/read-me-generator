@@ -5,7 +5,7 @@
 
 A README generator so quickly create a professional README for a new project.
 
-Please use this [video](instert-link) for a walkthough tutorial of the README generator.
+Please use this [video](https://drive.google.com/file/d/1sulwouYGrnuaWbgzK6DsHvfaDoEZCRkF/view) for a walkthough tutorial of the README generator.
 
 ## Table of Contents
 
@@ -57,10 +57,10 @@ THEN I am taken to the corresponding section of the README
 
 **Walkthrough Video**
 
-- [] A walkthrough video that demonstrates the functionality of the README generator must be submitted and a link to the video should be included in your README file
-- [] The walkthrough video must demonstrate how a user would invoke the application from the command line
-- [] The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.
-- [] The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.
+- [x] A walkthrough video that demonstrates the functionality of the README generator must be submitted and a link to the video should be included in your README file
+- [x] The walkthrough video must demonstrate how a user would invoke the application from the command line
+- [x] The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.
+- [x] The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.
 
 **Technical Acceptance**
 
@@ -90,6 +90,12 @@ For any ideas or feedback, please see my contact information [below](#questions)
 ## Tests
 
 Using the CLI, type "node index" and follow questions.
+
+## Built With
+
+- JavaScript
+- node.js
+- markdown
 
 ## Questions
 

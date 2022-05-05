@@ -1,13 +1,13 @@
 ![MIT](https://img.shields.io/badge/License-MIT-blue)
-# README-generator
+# test
 
 ## Description
 
-Quickly create a professional README for a new project.
+test
 
 ## Table of Contents
 
-- [README-generator](#readme-generator)
+- [test](#test)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
@@ -18,35 +18,35 @@ Quickly create a professional README for a new project.
 
 ## Installation
 
-Please install "Inquirer" via npm.
+test
 
 ## Usage
 
-`TBD by user`
+test
 
 ## Contributing
 
-Anyone is able to contribute.
+test
     
 ## Tests
 
-`TBD by user`
+test
 
 ## Questions
 
-For any questions, please reach out to Samuel Pettyjohn through the following resources:
+For any questions, please reach out to test through the following resources:
 
-Name: Samuel Pettyjohn <br>
-Title: Aspiring Developer <br>
-Email: <sammpj47@gmail.com> <br>
-GitHub: <https://github.com/sam-pettyjohn/> <br>
+Name: test <br>
+Title: test <br>
+Email: <test> <br>
+GitHub: <https://github.com/test/> <br>
 
 ## License
 
 
 MIT License
 
-Copyright (c) 2022 Samuel Pettyjohn
+Copyright (c) 2022 test
             
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
