@@ -34,11 +34,11 @@ Anyone is able to contribute.
 
 ## Questions
 
-For any questions, please reach out to sam-pettyjohn through the following resources:
+For any questions, please reach out to Samuel Pettyjohn through the following resources:
 
 Name: Samuel Pettyjohn <br>
-Title: Developer <br>
-Email: <sammpj@gmail.com> <br>
+Title: Aspiring Developer <br>
+Email: <sammpj47@gmail.com> <br>
 GitHub: <https://github.com/sam-pettyjohn/> <br>
 
 ## License

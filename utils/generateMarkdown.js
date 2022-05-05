@@ -952,7 +952,7 @@ ${tests}
 
 ## Questions
 
-For any questions, please reach out to ${user.github} through the following resources:
+For any questions, please reach out to ${user.name} through the following resources:
 
 Name: ${user.name} <br>
 Title: ${user.profession} <br>
